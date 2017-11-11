@@ -13,4 +13,3 @@ The source code description are as follows:
 		as described in Discussion and Analysis part
 	-> Visualizations.R is used for generating visualizations
 
-All the Shiny app related source code are in shinySourceCode folder
